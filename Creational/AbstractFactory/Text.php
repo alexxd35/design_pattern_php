@@ -19,4 +19,5 @@ abstract class Text implements MediaInterface
     {
         $this->text = (string) $text;
     }
+	
 }
